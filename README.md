@@ -23,9 +23,6 @@ El objetivo es reforzar los conocimientos básicos y construir una base sólida 
 
 ## 🗂️ Estructura del repositorio
 
-Cada archivo Python corresponde a un ejercicio individual.  
-Puedes ejecutar cada uno de forma independiente para probar su funcionamiento.
-
 | Nº | 🧠 Tema principal | 📝 Descripción breve |
 |----|------------------|---------------------|
 | **1** | Variables | Declarar variables de distintos tipos y mostrarlas por consola. |
