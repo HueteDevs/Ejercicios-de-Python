@@ -60,7 +60,8 @@ Puedes ejecutar cada uno de forma independiente para probar su funcionamiento.
    ```bash
    git clone [https://github.com/HueteDevs/Ejercicios-pr-cticos-de-Python.git]
 
-   🛠️ Requisitos
+ 
+🛠️ Requisitos:
 
 🐍 Python 3.8 o superior
 
@@ -81,12 +82,14 @@ Puedes ejecutar cada uno de forma independiente para probar su funcionamiento.
 ✍️ Autor
 
 👨‍💻 Iñaki Huete
+
 🎓 Estudiante de Python + IA
+
 📍 España
 
 💬 "El aprendizaje constante es la clave del progreso. Estos ejercicios son parte de mi camino en la programación y los comparto para ayudar a otros a empezar también."
 
-⭐ Cómo apoyar el proyecto
+👍 Cómo apoyar el proyecto
 
 Si este repositorio te resulta útil:
 
