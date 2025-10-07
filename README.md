@@ -91,5 +91,7 @@ Puedes ejecutar cada uno de forma independiente para probar su funcionamiento.
 Si este repositorio te resulta útil:
 
 ⭐ Dale una estrella en GitHub
+
 🔁 Compártelo con otros estudiantes
+
 💡 Propón nuevos ejercicios o mejoras mediante issues o pull requests
