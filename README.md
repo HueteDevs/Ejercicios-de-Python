@@ -6,7 +6,7 @@
 # 🐍 Ejercicios de Python — Desde Nivel Básico hasta Avanzado  
 
 > ✨ *Colección progresiva de ejercicios en Python para practicar lógica, sintaxis y fundamentos de programación.*  
-> Cada ejercicio está explicado paso a paso, con código limpio y orientado al aprendizaje.
+
 
 ---
 
