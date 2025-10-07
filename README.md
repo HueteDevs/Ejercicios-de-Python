@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="HueteDevs banner" />
+  <img src="banner.png" alt="HueteDevs banner" width="800" />
 </p>
 
 
