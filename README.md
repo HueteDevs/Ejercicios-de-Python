@@ -54,3 +54,37 @@ Puedes ejecutar cada uno de forma independiente para probar su funcionamiento.
 1. Clona este repositorio en tu equipo:
    ```bash
    git clone https://github.com/inakihuete/python-ejercicios.git
+
+   🛠️ Requisitos
+
+🐍 Python 3.8 o superior
+
+💻 Editor de texto o IDE (VS Code, PyCharm, Thonny, etc.)
+
+📅 Próximas actualizaciones
+
+🚧 Próximamente se añadirán nuevos bloques de ejercicios:
+
+🔜 Listas, tuplas y diccionarios
+
+🔜 Funciones y modularización
+
+🔜 POO (Programación Orientada a Objetos)
+
+🔜 Mini proyectos de lógica y juegos simples
+
+✍️ Autor
+
+👨‍💻 Iñaki Huete
+🎓 Estudiante de Python + IA
+📍 España
+
+💬 "El aprendizaje constante es la clave del progreso. Estos ejercicios son parte de mi camino en la programación y los comparto para ayudar a otros a empezar también."
+
+⭐ Cómo apoyar el proyecto
+
+Si este repositorio te resulta útil:
+
+⭐ Dale una estrella en GitHub
+🔁 Compártelo con otros estudiantes
+💡 Propón nuevos ejercicios o mejoras mediante issues o pull requests
