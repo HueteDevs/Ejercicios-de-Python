@@ -53,7 +53,7 @@ Puedes ejecutar cada uno de forma independiente para probar su funcionamiento.
 
 1. Clona este repositorio en tu equipo:
    ```bash
-   git clone https://github.com/inakihuete/python-ejercicios.git
+   git clone [https://github.com/HueteDevs/Ejercicios-pr-cticos-de-Python.git]
 
    🛠️ Requisitos
 
