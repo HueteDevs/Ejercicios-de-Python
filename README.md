@@ -39,7 +39,9 @@ El objetivo es reforzar los conocimientos básicos y construir una base sólida 
 | **12** | Contador descendente | Mostrar del 20 al 1 con un `while`. |
 | **13** | Pares con `range()` | Imprimir los pares del 2 al 40. |
 | **14** | Suma acumulada | Pedir 5 números al usuario y sumar todos. |
-
+| **15** | Bucles anidados_2 | Rectángulo de asteriscos (*) dado ancho y alto. |
+| **16** | Bucles anidados_3 | Triángulo invertido de números. |
+| **17** | Funciones | Función que calcula el área de un círculo. |
 ---
 
 ## 🧠 Objetivo del proyecto
@@ -69,8 +71,6 @@ El objetivo es reforzar los conocimientos básicos y construir una base sólida 
 🚧 Próximamente se añadirán nuevos bloques de ejercicios:
 
 🔜 Listas, tuplas y diccionarios
-
-🔜 Funciones y modularización
 
 🔜 POO (Programación Orientada a Objetos)
 
