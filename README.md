@@ -57,8 +57,7 @@ El objetivo es reforzar los conocimientos básicos y construir una base sólida 
 
 1. Clona este repositorio en tu equipo:
    ```bash
-   git clone [https://github.com/HueteDevs/Ejercicios-pr-cticos-de-Python.git]
-
+   git clone https://github.com/HueteDevs/Ejercicios-de-Python
  
 🛠️ Requisitos:
 
@@ -95,3 +94,4 @@ Si este repositorio te resulta útil:
 🔁 Compártelo con otros estudiantes
 
 💡 Propón nuevos ejercicios o mejoras mediante issues o pull requests
+
