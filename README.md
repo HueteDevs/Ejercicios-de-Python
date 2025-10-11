@@ -83,7 +83,7 @@ El objetivo es reforzar los conocimientos básicos y construir una base sólida 
 
 📍 España
 
-💬 "El aprendizaje constante es la clave del progreso. Estos ejercicios son parte de mi camino en la programación y los comparto para ayudar a otros a empezar también."
+💬 "El aprendizaje constante es la clave del progreso. Estos ejercicios son parte de mi camino en la programación y los comparto para ayudar a otros a empezar."
 
 👍 Cómo apoyar el proyecto
 
@@ -94,6 +94,7 @@ Si este repositorio te resulta útil:
 🔁 Compártelo con otros estudiantes
 
 💡 Propón nuevos ejercicios o mejoras mediante issues o pull requests
+
 
 
 
