@@ -77,7 +77,7 @@ El objetivo es reforzar los conocimientos básicos y construir una base sólida 
 
 ## ✍️ Autor
 
-👨‍💻 Iñaki Huete
+👨‍💻 Iñaki Huete | HueteDevs
 
 🎓 Estudiante de Python + IA
 
@@ -94,6 +94,7 @@ Si este repositorio te resulta útil:
 🔁 Compártelo con otros estudiantes
 
 💡 Propón nuevos ejercicios o mejoras mediante issues o pull requests
+
 
 
 
