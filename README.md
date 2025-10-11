@@ -59,7 +59,7 @@ El objetivo es reforzar los conocimientos básicos y construir una base sólida 
    ```bash
    git clone https://github.com/HueteDevs/Ejercicios-de-Python
  
-🛠️ Requisitos:
+## 🛠️ Requisitos:
 
 🐍 Python 3.8 o superior
 
@@ -75,7 +75,7 @@ El objetivo es reforzar los conocimientos básicos y construir una base sólida 
 
 🔜 Mini proyectos de lógica y juegos simples
 
-✍️ Autor
+## ✍️ Autor
 
 👨‍💻 Iñaki Huete
 
@@ -83,9 +83,9 @@ El objetivo es reforzar los conocimientos básicos y construir una base sólida 
 
 📍 España
 
-💬 "El aprendizaje constante es la clave del progreso. Estos ejercicios son parte de mi camino en la programación y los comparto para ayudar a otros a empezar."
+## 💬 "El aprendizaje constante es la clave del progreso. Estos ejercicios son parte de mi camino en la programación y los comparto para ayudar a otros a empezar."
 
-👍 Cómo apoyar el proyecto
+## 👍 Cómo apoyar el proyecto
 
 Si este repositorio te resulta útil:
 
@@ -94,6 +94,7 @@ Si este repositorio te resulta útil:
 🔁 Compártelo con otros estudiantes
 
 💡 Propón nuevos ejercicios o mejoras mediante issues o pull requests
+
 
 
 
