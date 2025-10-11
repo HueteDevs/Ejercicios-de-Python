@@ -25,7 +25,7 @@ El objetivo es reforzar los conocimientos básicos y construir una base sólida 
 
 | Nº | 🧠 Tema principal | 📝 Descripción breve |
 |----|------------------|---------------------|
-| **1** | (variables.py) | Declarar variables de distintos tipos y mostrarlas por consola. | 
+| **1** | [variables](variables.py) | Declarar variables de distintos tipos y mostrarlas por consola. | 
 | **2** | Reasignación | Modificar el valor de una variable y mostrar el resultado. |
 | **3** | Conversión de tipos | Convertir enteros y flotantes a cadenas (`str`) y mostrar sus tipos. |
 | **4** | Entrada de usuario | Leer un valor desde teclado (`input`) y mostrarlo. |
@@ -94,6 +94,7 @@ Si este repositorio te resulta útil:
 🔁 Compártelo con otros estudiantes
 
 💡 Propón nuevos ejercicios o mejoras mediante issues o pull requests
+
 
 
 
