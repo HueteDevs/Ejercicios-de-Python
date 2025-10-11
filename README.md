@@ -26,10 +26,10 @@ El objetivo es reforzar los conocimientos básicos y construir una base sólida 
 | Nº | 🧠 Tema principal | 📝 Descripción breve |
 |----|------------------|---------------------|
 | **1** | [variables](variables.py) | Declarar variables de distintos tipos y mostrarlas por consola. | 
-| **2** | Reasignación | Modificar el valor de una variable y mostrar el resultado. |
-| **3** | Conversión de tipos | Convertir enteros y flotantes a cadenas (`str`) y mostrar sus tipos. |
-| **4** | Entrada de usuario | Leer un valor desde teclado (`input`) y mostrarlo. |
-| **5** | Condicionales | Determinar si una variable es `int` o `str`. |
+| **2** | [Reasignación](reasignacion_variables.py) | Modificar el valor de una variable y mostrar el resultado. |
+| **3** | [Conversión de tipos](conversion_tipos.py) | Convertir enteros y flotantes a cadenas (`str`) y mostrar sus tipos. |
+| **4** | [Entrada de usuario](entrada_usuario) | Leer un valor desde teclado (`input`) y mostrarlo. |
+| **5** | [Condicionales](condicionales.py) | Determinar si una variable es `int` o `str`. |
 | **6** | Comparación | Verificar si un número es positivo o negativo. |
 | **7** | Mayoría de edad | Comprobar si el usuario es mayor o menor de 18 años. |
 | **8** | Bucles `for` y `while` | Mostrar números del 1 al 20 con ambos bucles. |
@@ -94,6 +94,7 @@ Si este repositorio te resulta útil:
 🔁 Compártelo con otros estudiantes
 
 💡 Propón nuevos ejercicios o mejoras mediante issues o pull requests
+
 
 
 
