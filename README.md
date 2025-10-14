@@ -42,7 +42,7 @@ El objetivo es reforzar los conocimientos básicos y construir una base sólida 
 | **15** | Bucles anidados_2 | Rectángulo de asteriscos (*) dado ancho y alto. |
 | **16** | Bucles anidados_3 | Triángulo invertido de números. |
 | **17** | Funciones | Función que calcula el área de un círculo. |
-| **18**| [Comprensión de listas] (listas_1.py)| Creación de lista del 1-10|
+| **18**| [Comprensión de listas](listas_1.py) | Creación de lista del 1-10|
 ---
 
 ## 🧠 Objetivo del proyecto
@@ -95,6 +95,7 @@ Si este repositorio te resulta útil:
 🔁 Compártelo con otros estudiantes
 
 💡 Propón nuevos ejercicios o mejoras mediante issues o pull requests
+
 
 
 
