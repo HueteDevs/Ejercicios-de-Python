@@ -14,7 +14,7 @@ el programa imprimirá "Cadena de caracteres" en la consola".
 - Si no es un entero nos tiene que devolver un mensaje diciendo que es una
   cadena mediante un print()
 
-'''
+''' 
 var = "Hola"
 
 if type(var) == int:
