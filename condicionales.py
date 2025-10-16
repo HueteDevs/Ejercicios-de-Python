@@ -1,10 +1,9 @@
 '''
 ================================================================================
-Crear una serie de instrucciones en Python que permitan declarar una variable 
-"var" y asignarle el valor "Hola". Luego, el programa debe verificar si la 
-variable var es un entero o una cadena de caracteres. Si es un entero, el 
-programa debe imprimir en la consola "Entero", y si es una cadena de caracteres, 
-el programa imprimirá "Cadena de caracteres" en la consola".
+Escribir un programa que declare la variable "d" y le asigne el valor 5, y 
+verifique si esta variable es mayor o menor que 0. Si la variable es mayor que 
+0, el programa debe imprimir "positiva", de lo contrario debe imprimir 
+"Negativa".
 ================================================================================
 
 **** CÓMO SE HACE ***
