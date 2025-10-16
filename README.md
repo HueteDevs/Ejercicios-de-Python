@@ -66,7 +66,7 @@ El objetivo es reforzar los conocimientos básicos y construir una base sólida 
 
 💻 Editor de texto o IDE (VS Code, PyCharm, Thonny, etc.)
 
-📅 Próximas actualizaciones
+## 📅 Próximas actualizaciones
 
 🚧 Próximamente se añadirán nuevos bloques de ejercicios:
 
@@ -95,6 +95,7 @@ Si este repositorio te resulta útil:
 🔁 Compártelo con otros estudiantes
 
 💡 Propón nuevos ejercicios o mejoras mediante issues o pull requests
+
 
 
 
