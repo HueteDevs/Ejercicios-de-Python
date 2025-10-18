@@ -9,7 +9,7 @@ hasta la creación de Clases y objetos.
 
 Espero que os divirtáis tanto como yo lo estoy haciendo y espero vuestros resultados 👌
 
-## Bloque 1 — Tuplas ⏱️(15–20 min)
+## Bloque 1 — [Tuplas](tuplas.py) ⏱️(15–20 min)
 
 1.	Ficha inmutable
 Crea una tupla pokemon_base con: (nombre, tipo_principal, nivel_inicial)
