@@ -72,7 +72,11 @@ Por eso mi metodología es sencilla:
 - **Editor:** Visual Studio Code  
 - **Entorno:** Google Colab / VSC local  
 - **Control de versiones:** Git & GitHub  
-- **Sistema operativo:** Windows 10  
+- **Sistema operativo:** Windows 11 Profesional
+- **Equipo:**
+- MSI Cyborg 15 i7-13620H
+- 32 GB RAM
+- RTX-4060 8GB
 
 ---
 
