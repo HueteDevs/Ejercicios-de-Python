@@ -4,22 +4,22 @@
 
 ## BIENVENID@S A MI PROYECTO HAZLO TU SOLO! de POKEMON 🎮🕹️👾
 
-En este proyecto de aprendizaje vamos a practicar todos los aspectos básicos de Python
-hasta la creación de Clases y objetos.
+En este proyecto de aprendizaje vamos a practicar todos los aspectos <b>básicos de Python
+hasta la creación de Clases y objetos.</b>
 
-Espero que os divirtáis tanto como yo lo estoy haciendo y espero vuestros resultados 👌
+Espero que os divirtáis tanto como yo lo estoy haciendo y <b>espero vuestros resultados</b> 👌
 
 ## Bloque 1 — [Tuplas](tuplas.py) ⏱️(15–20 min)
 
-1.	Ficha inmutable:
+1.	<b>Ficha inmutable:</b>
 <br>Crea una tupla pokemon_base con: (nombre, tipo_principal, nivel_inicial)</br>
 *	Comprueba acceso por índice y desempaquetado.
 *	Intenta “cambiar” el nivel dentro de la tupla (debería fallar) y explica por qué en un print explicativo.
-2.	Tupla como clave:
+2.	<b>Tupla como clave:</b>
 <br>Crea un diccionario registro_capturas donde la clave sea la tupla (ruta, hora) y el valor sea el nombre del Pokémon.</br>
 *	Añade 3 capturas.
 *	Pregunta si existe una clave concreta usando in.
-3.	Ranking Compacto:
+3.	<b>Ranking Compacto:</b>
 <br>Crea una lista de tuplas ranking = [(nombre, nivel), ...].</br>
 * Recorre la lista y muestra “#1 NOMBRE — Nivel X”, etc.
 *	Encuentra la tupla con mayor nivel sin usar funciones avanzadas (solo bucles y condicionales).
@@ -27,16 +27,16 @@ ________________________________________
 
 ## Bloque 2 — Diccionarios ⏱️(25–30 min)
 
-4.	Pokédex mínima:
+4.	<b>Pokédex mínima:</b>
 <br>Crea pokedex = { "Sprigatito": {"tipo": "Planta", "nivel": 7}, ... } con 3 entradas.</br>
 *	Añade un cuarto Pokémon.
 *	Sube el nivel de uno en +2.
 *	Muestra todos en formato “Nombre (Tipo) — Nivel”.
-5.	Medias por zonas:
+5.	<b>Medias por zonas:</b>
 <br>avistamientos = { "Zona Sur": [7, 5, 3], "Zona Este": [4, 4, 6] } (niveles vistos)</br>
 *	Calcula la media de cada zona y muéstrala (usa / len(lista) o / 3 si fijas 3 valores).
 *	Di qué zona tiene la media más alta.
-6.	Diccionario de listas + búsqueda:
+6.	<b>Diccionario de listas + búsqueda:</b>
 <br>En movimientos = { "Sprigatito": ["Arañazo", "Hoja Afilada"], ... }:</br>
 *	Añade un movimiento a dos pokémon.
 *	Pide por teclado un nombre y muestra sus movimientos o el mensaje “No encontrado”.
@@ -44,29 +44,29 @@ ________________________________________
 
 ## Bloque 3 — Funciones ⏱️(30–40 min)
 
-7.	calcular_media_niveles(lista_niveles):
+7.	<b>calcular_media_niveles(lista_niveles):</b>
 <br>Devuelve la media (float).</br>
 *	Prueba con [5, 10, 7] y con [10, 10, 10].
 *	Muestra el resultado con un print claro (sin :.2f si no quieres).
-8.	subir_nivel(pokedex, nombre, puntos):
+8.	<b>subir_nivel(pokedex, nombre, puntos):</b>
 <br>Recibe el diccionario del ejercicio 4, un nombre y puntos a subir.</br>
 *	Si existe, actualiza; si no, no hagas nada pero informa por pantalla.
 *	Devuelve True/False según haya actualizado.
-9.	mejor_pokemon(pokedex):
+9.	<b>mejor_pokemon(pokedex):</b>
 <br>Devuelve el nombre con mayor nivel (si hay empate, el primero que encuentre).</br>
 *	Recorre con .items() y variables auxiliares (mejor_nombre, mejor_nivel = 0).
 ________________________________________
 
 ## Bloque 4 — Clases y objetos ⏱️(45–60 min)
 
-10.	Clase Pokemon:
+10.	<b>Clase Pokemon:</b>
 <br>Atributos: nombre (str), tipo (str), nivel (int), movimientos (lista/tupla).</br>
 Métodos:
 *	subir_nivel(puntos) → aumenta nivel (mínimo 0).
 *	aprender_movimiento(mov) → añade si no está y si hay hueco (p.ej., máximo 4).
 *	resumen() → devuelve texto: "NOMBRE (TIPO) — Nivel X — Movs: ...".
 Crea 3 instancias y prueba los métodos.
-11.	Clase Equipo
+11.	<b>Clase Equipo</b>
 Atributos: miembros (lista de Pokemon, máx. 6).
 Métodos:
 *	agregar(pokemon) → añade si hay espacio y no está repetido por nombre.
@@ -78,7 +78,7 @@ ________________________________________
 
 ## Mini-proyecto integrador ⏱️(60–90 min)
 
-> “Gestor de Equipo Pokémon (modo texto)”
+> <b>“Gestor de Equipo Pokémon (modo texto)”</b>
 
 Un programa pequeño que use tuplas + diccionarios + funciones + clases.
 ## Requisitos mínimos
