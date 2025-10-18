@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="HueteDevs banner" width="800" height="600" />
+  <img src="banner.png" alt="Project banner" width="800" height="600" />
 </p>
 
 ## BIENVENID@S A MI PROYECTO HAZLO TU SOLO! de POKEMON 🎮🕹️👾
