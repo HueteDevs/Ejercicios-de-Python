@@ -74,7 +74,7 @@ ________________________________________
 
 ## Mini-proyecto integrador ⏱️(60–90 min)
 
-“Gestor de Equipo Pokémon (modo texto)”
+> “Gestor de Equipo Pokémon (modo texto)”
 
 Un programa pequeño que use tuplas + diccionarios + funciones + clases.
 ## Requisitos mínimos
