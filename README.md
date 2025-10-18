@@ -85,7 +85,6 @@ Por eso mi metodología es sencilla:
 **HueteDevs (Iñaki Huete)**  
 📍 España  
 💬 *“Proyecto, hazlo tú solo.”*  
-📧 [Contacto profesional próximamente]  
 
 ---
 
