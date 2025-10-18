@@ -2,7 +2,7 @@
   <img src="banner.png" alt="HueteDevs banner" width="800" height="600" />
 </p>
 
-## BIENVENID@S A MI PROYECTO POKEMON 🎮🕹️👾
+## BIENVENID@S A MI PROYECTO HAZLO TU SOLO! de POKEMON 🎮🕹️👾
 
 En este proyecto de aprendizaje vamos a practicar todos los aspectos básicos de Python
 hasta la creación de Clases y objetos.
