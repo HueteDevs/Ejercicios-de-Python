@@ -73,11 +73,14 @@ Crea un equipo, añade 3–4 pokémon, sube niveles a alguno y muestra el equipo
 ________________________________________
 
 ## Mini-proyecto integrador ⏱️(60–90 min)
+
 “Gestor de Equipo Pokémon (modo texto)”
+
 Un programa pequeño que use tuplas + diccionarios + funciones + clases.
 Requisitos mínimos
 •	Usa tu clase Pokemon y la clase Equipo del Bloque 4.
-•	Datos semilla: crea 3 pokémon iniciales (puedes guardarlos en un diccionario plantilla_inicial con claves por nombre y valores con una tupla de atributos básicos, p.ej. (tipo, nivel, movimientos_iniciales) para construirlos).
+•	Datos semilla: crea 3 pokémon iniciales (puedes guardarlos en un diccionario plantilla_inicial con claves por nombre y valores con una tupla de atributos básicos)
+  p.ej. (tipo, nivel, movimientos_iniciales) para construirlos).
 •	Menú en bucle (while True con opción de salida) con opciones:
 1.	Añadir Pokémon al equipo (desde la plantilla_inicial por nombre o creando uno nuevo con input).
 2.	Quitar Pokémon por nombre.
