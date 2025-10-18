@@ -34,17 +34,18 @@ Aquí encontrarás:
 
 ## 📂 Estructura del repositorio  
 
+```plaintext
 Ejercicios-de-Python/
 │
-├── bloques_basicos/ → ejercicios introductorios (variables, listas, condicionales, etc.)
+├── bloques_basicos/        → ejercicios introductorios (variables, listas, condicionales, etc.)
 ├── mini_proyectos/pokemon/ → mini-proyecto temático Pokémon “Hazlo tú solo!”
-├── Ejercicios_Python.ipynb → prácticas en formato Colab / Notebook
-├── banner.png → banner del proyecto
-└── README.md → este documento
+├── banner.png              → banner del proyecto
+└── README.md               → este documento
+
 
 
 ---
-
+```
 ## 🧩 Filosofía de trabajo  
 
 🚀 Aprender programación no es correr, es construir paso a paso.  
